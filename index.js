@@ -1,4 +1,4 @@
-var resemblejs = require('resemblejs');
+var resemblejs = require('resemblejs-tolerance');
 var canvas     = require('canvas');
 var imageType  = require('image-type');
 
