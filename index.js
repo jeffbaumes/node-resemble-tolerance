@@ -28,5 +28,5 @@ module.exports = function() {
         }
     };
 
-    return resemblejs.resemble.apply(this, arguments);
+    return resemblejs.apply(this, arguments);
 };
